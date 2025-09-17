@@ -1,6 +1,6 @@
 # DAX Performance optimization – by NordholmBI
 
-Library of 1000 DAX performance optimizations. Each case includes:
+Library of my DAX performance optimizations. Each case includes:
 
 - Original DAX measure
 - Optimized DAX version
@@ -10,4 +10,4 @@ Library of 1000 DAX performance optimizations. Each case includes:
 
 ## Optimization cases
 
-- [Case 001 – Customers with 10+ Orders](./case-001-customers10plus-orders/README.md)
+- [Case 001 – Customers with 10 orders](./case-001-customers10plus-orders/README.md)
