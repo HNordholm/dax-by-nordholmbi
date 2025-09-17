@@ -10,4 +10,4 @@ Library of my DAX performance optimizations. Each case includes:
 
 ## Optimization cases
 
-- [Case 001 – Customers with 10 orders](./case-001-customers10plus-orders/README.md)
+- [Case 001 – Customers with 10+ orders](./case-001-customers10plus-orders/README.md)
